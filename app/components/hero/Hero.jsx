@@ -195,6 +195,7 @@ export default function Hero() {
               width={150}
               height={150}
               priority
+              className="drop-shadow-[5px_10px_25px_#ffffff40]"
             />
           </motion.div>
         </motion.div>
