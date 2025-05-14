@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: 'Landing Page Kuliner',
-  description: 'Halaman landing modern dengan animasi penuh untuk meningkatkan pemasaran kuliner.',
+  title: 'Tasty Corner',
+  description: 'Nikmati setiap gigitan penuh rasa dan kenikmatan.',
 };
 
 export default function RootLayout({ children }) {

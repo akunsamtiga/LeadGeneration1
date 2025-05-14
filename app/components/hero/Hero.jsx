@@ -230,7 +230,7 @@ export default function Hero() {
             onClick={handleLearnMore}
             whileHover={{ scale: 1.1 }}
             whileTap={{ scale: 0.9 }}
-            className="px-5 py-2 md:px-8 md:py-3 lg:px-10 py-3 border-2 border-indigo-400 text-white rounded-full text-lg lg:text-2xl font-semibold hover:bg-indigo-400 transition"
+            className="px-5 py-2 md:px-8 md:py-3 lg:px-10 py-3 border-2 border-indigo-400 text-white rounded-full text-lg lg:text-2xl font-semibold transition"
           >
             Konsultasi
           </motion.button>
